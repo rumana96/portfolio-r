@@ -1,0 +1,169 @@
+body {
+    background-color: #f1f1f1 !important;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: 400;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+
+}
+
+.container-well {
+    padding: 15px;
+    margin: 15px;
+    position: relative;
+
+}
+
+.b-1 img {
+    max-width: 107%;
+    margin-left: -14px;
+
+
+}
+
+.col-md-7 {
+    padding: 0;
+    background-color: #f1f1f1 !important;
+
+}
+
+p {
+    padding: 15px 10px 6px 10px;
+
+}
+
+.bg-white {
+    background-color: #fff;
+}
+
+
+
+.grey-color {
+    color: #757575 !important;
+    padding-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+    margin: 10px 0;
+
+}
+
+.lg-font {
+    font-size: 18px !important;
+}
+
+.w3-blue,
+footer {
+    background-color: #009688 !important;
+    color: #fff !important;
+    text-align: center;
+    padding-bottom: 7px !important;
+}
+
+
+
+.w3-round-xlarge {
+    border-radius: 16px;
+}
+
+.w3-light-grey {
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+}
+
+.w3-container,
+.w3-panel {
+    padding: 0.01em 16px;
+}
+
+.fa,
+h6 {
+    color: #009688 !important;
+    display: inline-block;
+    padding-right: 20px;
+}
+
+
+.b-1,
+.pb,
+.pt {
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 4px 20px 0 rgb(0 0 0 / 19%);
+}
+
+
+
+.b-1 h1 {
+
+    position: absolute;
+    top: 18%;
+    left: 5%;
+    font-size: 30px;
+    color: #000 !important;
+}
+
+.disp {
+    display: table;
+}
+
+.text-white {
+    color: #fff !important;
+    padding: 0 !important;
+}
+
+.w3-hover-opacity:hover {
+    opacity: 0.5;
+}
+
+.w3-opacity {
+    opacity: 0.60;
+
+}
+
+.pl-2 {
+    margin-left: 10px;
+}
+
+h5 {
+    font-size: 18px !important;
+}
+
+h6 {
+    font-size: 16px !important;
+}
+
+b {
+    font-weight: bolder;
+}
+
+.w3-teal {
+    background-color: #009688 !important;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.pt,
+.pb {
+    padding: 30px 40px;
+    width: 116%;
+    margin: 1px -10px;
+}
+
+.pb {
+    margin-bottom: 20px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+@media only screen and (max-width: 768px) {}
