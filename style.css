@@ -165,5 +165,16 @@ b {
 h2 {
     padding: 10px;
 }
+@media only screen and (max-width: 768px) {
 
-@media only screen and (max-width: 768px) {}
+    .pt,
+    .pb {
+        margin-left: -25px;
+        margin-top: 13px;
+        width: 112%;
+    }
+
+    h2 {
+        font-size: 28px !important;
+    }
+}
